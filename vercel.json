@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/channel.js": {
+      "runtime": "edge"
+    }
+  }
+}
